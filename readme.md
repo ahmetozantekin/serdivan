@@ -5,7 +5,7 @@ Visit [Homepage](http://ahmetozantekin.github.io/serdivan/).
 
 ## Install
 
-#### [npm]()
+#### [npm](https://www.npmjs.com/package/serdivan)
 ```
 $ npm install serdivan
 ```
@@ -15,7 +15,7 @@ $ npm install serdivan
 $ bower install serdivan
 ```
 
-#### [yarn]()
+#### [yarn](https://yarnpkg.com/en/package/serdivan)
 ```
 $ yarn add serdivan
 ```
