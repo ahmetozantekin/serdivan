@@ -1,0 +1,23 @@
+{
+  "name": "serdivan",
+  "version": "1.0.0",
+  "homepage": "http://ahmetozantekin.github.io/serdivan/",
+  "description": "Attribute Based Simple Grid System",
+  "keywords": [
+    "css",
+    "scss",
+    "grid",
+    "responsive",
+    "framework",
+    "attr",
+    "attribute",
+    "sass"
+  ],
+  "main": "dist/serdivan.min.css",
+  "author": "@ahmetozantekin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetozantekin/serdivan.git"
+  }
+}
