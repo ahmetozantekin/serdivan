@@ -20,6 +20,12 @@ $ bower install serdivan
 $ yarn add serdivan
 ```
 
+#### [CDN]()
+```
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/ahmetozantekin/serdivan/ac40a77b/dist/serdivan.min.css">
+```
+
+
 
 ## Usage
 

@@ -1,0 +1,27 @@
+{
+  "name": "serdivan",
+  "description": "Attribute Based Simple Grid System",
+  "main": "dist/serdivan.min.css",
+  "authors": [
+    "@ahmetozantekin"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "scss",
+    "grid",
+    "responsive",
+    "framework",
+    "attr",
+    "attribute",
+    "sass"
+  ],
+  "homepage": "https://github.com/ahmetozantekin/serdivan",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
