@@ -10,7 +10,7 @@ Visit [Homepage](http://ahmetozantekin.github.io/serdivan/).
 $ npm install serdivan
 ```
 
-#### [bower]()
+#### [bower](https://bower.io/search/?q=serdivan)
 ```
 $ bower install serdivan
 ```
