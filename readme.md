@@ -1,4 +1,4 @@
-![Serdivan GS](http://imgim.com/pseudo.png)
+![Serdivan GS](http://ahmetozantekin.github.io/serdivan/test/pseudologo.png)
 
 Serdivan is a attribute based simple grid system.
 Visit [Homepage](http://ahmetozantekin.github.io/serdivan/).
