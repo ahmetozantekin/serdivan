@@ -1,6 +1,6 @@
-![Serdivan GS](http://ahmetozantekin.github.io/serdivan/test/pseudologo.png)
+![Serdivan GS](https://i.ibb.co/dtpVjS7/image.png)
 
-Serdivan is a attribute based simple grid system.
+Serdivan is a attribute based grid system.
 Visit [Homepage](http://ahmetozantekin.github.io/serdivan/).
 
 ## Install
